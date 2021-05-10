@@ -531,3 +531,6 @@ Caused by: org.eclipse.core.internal.resources.ResourceException: Invalid projec
 
 !ENTRY org.python.pydev.shared_core 4 4 2021-05-10 13:58:17.653
 !MESSAGE Info: Rebuilding internal caches: C:\Users\Laura\Desktop\python\.metadata\.plugins\org.eclipse.core.resources\.projects\project two\com.python.pydev.analysis\AdditionalProjectInterpreterInfo.pydevinfo (Expected error to be provided and got no error!)
+
+!ENTRY org.python.pydev.shared_core 4 4 2021-05-10 14:16:52.315
+!MESSAGE Info: Rebuilding internal caches: C:\Users\Laura\Desktop\python\.metadata\.plugins\org.eclipse.core.resources\.projects\logical operators\com.python.pydev.analysis\AdditionalProjectInterpreterInfo.pydevinfo (Expected error to be provided and got no error!)
